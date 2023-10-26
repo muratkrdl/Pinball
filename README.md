@@ -5,7 +5,7 @@
 
 # Gameplay
 
-<img src="--" width="auto">
+<img src="https://github.com/muratkrdl/Pinball/blob/main/Gameplay.gif" width="auto">
 
 
 ## Authors
